@@ -23,6 +23,7 @@
     <version>26</version>
   </parent>
 
+  <groupId>cn.jiguang.vertx</groupId>
   <artifactId>vertx-redis-client</artifactId>
   <version>3.4.2-SNAPSHOT</version>
 
